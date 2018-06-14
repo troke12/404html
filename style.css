@@ -114,7 +114,9 @@ body { font-family: 'Open Sans', sans-serif; font-size: 14px; color: #3c3c3c;
 	animation: angkahtml 2s;
 }
 
-.comingcontainer{
+.comingcontainer
+{
+	ont-family: 'Open Sans';
 	width: 100%;
 }
 
